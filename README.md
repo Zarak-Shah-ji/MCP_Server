@@ -11,7 +11,7 @@ This is a Model Context Protocol (MCP) server project.
 
 2. Run the server:
    ```bash
-   python server.py
+   mcp dev server.py
    ```
 
 ## Description
