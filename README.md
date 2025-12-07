@@ -14,6 +14,3 @@ This is a Model Context Protocol (MCP) server project.
    mcp dev server.py
    ```
 
-## Description
-
-[Add your project description here]
